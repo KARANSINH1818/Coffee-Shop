@@ -30,7 +30,8 @@ A responsive Coffee Shop website built using HTML, CSS, and Bootstrap.
 
 KaranSinh Mori  
 
+---
 
 ⭐ If you like this project, feel free to give it a star!
 
---- Coffee Shop Website
+--- 
