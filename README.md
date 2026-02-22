@@ -4,6 +4,12 @@ A responsive Coffee Shop website built using HTML, CSS, and Bootstrap.
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://karansinh1818.github.io/Coffee-Shop/
+
+---
+
 ## 🚀 Features
 - Responsive Navbar
 - Home Section
